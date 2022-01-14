@@ -23,6 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: shahbazsinghmansahia(at)gmail(dot)com 
 
  
- ![Shahbaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahbazmansahia&show_icons=true&theme=radical)
- 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahbazmansahia&layout=compact&theme=radical)
+ ![Shahbaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahbazmansahia&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahbazmansahia&layout=compact&theme=radical)
