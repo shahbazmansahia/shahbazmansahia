@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🌱 Since the start of the pandemic, I've been working on both, my technical skills as well as my ethics; I do not know if anyone else has noticed or not but we are in a dire need of engineers who focus on the impact of their work from a humanitarian stand-point.
 
-- 👯 I’m looking to collaborate on web development and data science projects. I enjoy dabbling in aesthetics and graphic art so visual projects keep me heavily invested in my work a lot of the time (check out this book showcase project if you haven't yet; I had a lot of fun working on it! URL: https://shahbazmansahia.github.io/bookShowcase/)
+- 👯 I’m looking to collaborate on web development and data science projects. I enjoy dabbling in aesthetics and graphic art so visual projects keep me heavily invested in my work a lot of the time (check out this book showcase project if you haven't yet; I had a lot of fun working on it! URL: https://shahbazmansahia.github.io/photoPortfolioShowcase/)
 
 - 📫 How to reach me: shahbazsinghmansahia(at)gmail(dot)com 
 
